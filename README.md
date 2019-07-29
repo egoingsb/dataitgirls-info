@@ -3,7 +3,7 @@
 # 설치해주세요.
 (순서대로 설치해주세요. 동시에 설치하지 말아주세요.)
 - https://git-scm.com/
-- https://sourceforge.net/projects/gitextensions/
+- https://www.sourcetreeapp.com/
 - https://code.visualstudio.com/ (설치 후 에디터를 다시 시작해주세요)
 
 # 가입해주세요
