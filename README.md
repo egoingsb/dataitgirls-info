@@ -1,4 +1,4 @@
-# dataitgirls-info
+# dataitgirls 정보 공유 페이지
 
 # 설치해주세요.
 (순서대로 설치해주세요. 동시에 설치하지 말아주세요.)
