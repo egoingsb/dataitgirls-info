@@ -30,7 +30,7 @@ git config merge.tool p4merge
 - CLI - https://opentutorials.org/module/3747
 
 # 수련
-`
+```
 1. 프로젝트 폴더 만들기
 2. VS CODE에 프로젝트 폴더를 등록
 3. 프로젝트 폴더를 저장소로 만든다. git init 
@@ -49,4 +49,4 @@ git config merge.tool p4merge
 16. 지역 저장소를 업로드 한다. git push
 17. 각자의 컴퓨터에 지역 저장소를 복제한다. git clone ...
 18. 각자 작업해서 버전을 만들고 push 동시에 해본다. 
-`
+```
