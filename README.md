@@ -34,7 +34,7 @@ git config merge.tool p4merge
 1. 프로젝트 폴더 만들기
 2. VS CODE에 프로젝트 폴더를 등록
 3. 프로젝트 폴더를 저장소로 만든다. git init 
-4. 새로운 파일을 만든다. (work.txt)
+4. 새로운 파일을 만들고 수정한다. (work.txt)
 5. 스테이지로 등록한다. git add filename
 6. 버전을 만든다. git commit -am "commit message"
 7. 실험적인 프로젝트를 위해서 브랜치를 만든다. git branch exp
@@ -46,7 +46,7 @@ git config merge.tool p4merge
 13. 충돌 상황을 재현해본다. 
 14. github에 원격 저장소를 만든다. 
 15. 지금까지 작업한 지역 저장소를 github에 원격 저상소에 등록한다. git remote add origin ....
-16. 지역 저장소를 업로드 한다. git push
+16. 지역 저장소를 원격 저장소로 업로드 한다. git push
 17. 각자의 컴퓨터에 지역 저장소를 복제한다. git clone ...
 18. 각자 작업해서 버전을 만들고 push 동시에 해본다. 
 ```
